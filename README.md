@@ -21,3 +21,6 @@ I have found many of the online guides confusing for new developers, so I'll try
 3. __a3usersglobalwall__: Users can write on a global wall
 4. __a4userswall__: Users each have their own wall
 5. __a5betterusers__: Better user functionality, with recovery email
+6. __a6simpletodoapp__: A simple single user todo app
+7. __a7todoapp__: ToDo app with shared tasks
+
